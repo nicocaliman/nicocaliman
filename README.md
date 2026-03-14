@@ -1,5 +1,7 @@
 ## ¡Hola! Soy Gabriel Caliman 👋
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nicocaliman/banner/main/Gemini_Generated_Image_jhkgigjhkgigjhkg.png" alt="Banner de mi perfil de GitHub" width="100%" height="400px">
+</div>
 Soy estudiante de **Ingeniería Informática** en la Universidad Complutense de Madrid. Me apasiona el desarrollo de software, la arquitectura de sistemas y explorar nuevas tecnologías.
 
 * 🎓 Actualmente estudiando en la UCM.
